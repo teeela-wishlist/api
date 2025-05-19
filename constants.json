@@ -2,31 +2,31 @@
    "BEST_SELLER_CATEGORY_ID":[
       [
          true,
-         true
+         false
       ],
       [
          true,
-         true
+         false
       ],
       [
          true,
+         false
+      ],
+      [
+         false,
          true
       ],
       [
-         true,
-         true
-      ],
-      [
-         true,
+         false,
          true
       ]
    ],
    "WISHLIST_MAX_PRODUCTS":"",
-   "WISHLIST_MIN_PRODUCTS":true,
-   "KID_NAME_MAX_LENGTH":true,
+   "WISHLIST_MIN_PRODUCTS":false,
+   "KID_NAME_MAX_LENGTH":false,
    "CATEGORY_MIN_LENGTH":true,
-   "ALLOWED_COUNTRIES":true,
-   "SYNC_DAYS_NUMBER":[true, true],
+   "ALLOWED_COUNTRIES":false,
+   "SYNC_DAYS_NUMBER":[false, false],
    "HOBBIES_MIN_LENGTH":2,
    "HOBBIES_MAX_LENGTH":16
 }
