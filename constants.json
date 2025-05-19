@@ -2,23 +2,23 @@
    "BEST_SELLER_CATEGORY_ID":[
       [
          true,
-         true
+         false
       ],
       [
          true,
-         true
+         false
       ],
       [
          true,
-         true
+         false
       ],
       [
          true,
-         true
+         false
       ],
       [
          true,
-         true
+         false
       ]
    ],
    "WISHLIST_MAX_PRODUCTS":"",
@@ -27,10 +27,6 @@
    "CATEGORY_MIN_LENGTH":true,
    "ALLOWED_COUNTRIES":true,
    "SYNC_DAYS_NUMBER":[true, true],
-   "HOBBIES_MIN_LENGTH":{
-      
-   },
-   "HOBBIES_MAX_LENGTH":{
-      
-   }
+   "HOBBIES_MIN_LENGTH":2,
+   "HOBBIES_MAX_LENGTH":16
 }
