@@ -1,15 +1,15 @@
 {
    "BEST_SELLER_CATEGORY_ID":[
       [
-         true,
+         false,
          false
       ],
       [
-         true,
+         false,
          false
       ],
       [
-         true,
+         false,
          false
       ],
       [
@@ -21,7 +21,7 @@
          true
       ]
    ],
-   "WISHLIST_MAX_PRODUCTS":"",
+   "WISHLIST_MAX_PRODUCTS":"16",
    "WISHLIST_MIN_PRODUCTS":false,
    "KID_NAME_MAX_LENGTH":false,
    "CATEGORY_MIN_LENGTH":true,
