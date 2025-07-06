@@ -13,18 +13,18 @@
          true
       ],
       [
-         false,
+         true,
          true
       ],
       [
-         false,
+         true,
          true
       ]
    ],
    "WISHLIST_MAX_PRODUCTS":"",
    "WISHLIST_MIN_PRODUCTS":false,
-   "KID_NAME_MAX_LENGTH":true,
-   "CATEGORY_MIN_LENGTH":true,
+   "KID_NAME_MAX_LENGTH":false,
+   "CATEGORY_MIN_LENGTH":false,
    "ALLOWED_COUNTRIES":true,
    "SYNC_DAYS_NUMBER":[true, false],
    "HOBBIES_MIN_LENGTH":2,
