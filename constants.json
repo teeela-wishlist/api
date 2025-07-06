@@ -1,11 +1,11 @@
 {
    "BEST_SELLER_CATEGORY_ID":[
       [
-         true,
+         false,
          true
       ],
       [
-         false,
+         true,
          true
       ],
       [
