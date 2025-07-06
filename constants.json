@@ -26,7 +26,7 @@
    "KID_NAME_MAX_LENGTH":true,
    "CATEGORY_MIN_LENGTH":false,
    "ALLOWED_COUNTRIES":true,
-   "SYNC_DAYS_NUMBER":[true, true],
+   "SYNC_DAYS_NUMBER":[false, false],
    "HOBBIES_MIN_LENGTH":2,
    "HOBBIES_MAX_LENGTH":16
 }
